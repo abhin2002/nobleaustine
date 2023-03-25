@@ -6,11 +6,11 @@
    
   <div id="badges">
   <!-- Instagram -->
-  <a href="https://instagram.com/_elbon_?igshid=ZDdkNTZiNTM=">
+  <a href="https://www.instagram.com/____abhin__/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
  <!-- LinkedIn -->
-   <a href="https://www.linkedin.com/in/noble-austine-767453227">
+   <a href="https://www.linkedin.com/in/abhin-p-t-445463227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <!-- YouTube -->
